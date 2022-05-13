@@ -1,3 +1,1 @@
 # devops-netology
-# Modified
-
